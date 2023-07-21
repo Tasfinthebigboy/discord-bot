@@ -50,6 +50,6 @@ Reminder Command
 Contributing
 Contributions to this Discord bot are welcome! Feel free to fork the repository and submit pull requests with your improvements or new features.
 ```
-#License
+# License
 This Discord bot is released under the MIT License.
 
