@@ -19,7 +19,7 @@ Run the bot using python bot.py.
 ```
 ##Commands
 ###Fun Commands
-```
+```bash
 !hello: The bot responds with a friendly greeting.
 !ping: The bot responds with "Pong!" to check if it's online and responsive.
 !info: Displays information about the bot, such as version, creator, etc.
