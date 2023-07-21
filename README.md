@@ -17,6 +17,7 @@ If you wish to use the music functionality, ensure you have installed the youtub
 Run the bot using python bot.py.
 
 ##Commands
+The commands of this Bot
 
 ```bash
 !hello: The bot responds with a friendly greeting.
