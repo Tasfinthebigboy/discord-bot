@@ -11,14 +11,13 @@ discord.py library (install using pip install discord.py)
 youtube_dl library (install using pip install youtube_dl) for music functionality (optional)
 ```
 #Setup
-```
 Clone this repository to your local machine.
 Obtain your Discord bot token from the Discord Developer Portal and replace 'YOUR_BOT_TOKEN' in bot.py with your token.
 If you wish to use the music functionality, ensure you have installed the youtube_dl library.
 Run the bot using python bot.py.
-```
+
 ##Commands
-###Fun Commands
+
 ```bash
 !hello: The bot responds with a friendly greeting.
 !ping: The bot responds with "Pong!" to check if it's online and responsive.
