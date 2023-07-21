@@ -1,13 +1,15 @@
 # discord-bot
 A discord bot that has 20+ commands.
-Discord Bot ReadME
-Introduction
+## Discord Bot ReadME
+# Introduction
 This is a basic Discord bot created using Python and the discord.py library. The bot provides various fun and moderation commands to interact with users on Discord servers.
 
-Prerequisites
+# Prerequisites
 Python 3.x
+```bash
 discord.py library (install using pip install discord.py)
 youtube_dl library (install using pip install youtube_dl) for music functionality (optional)
+```
 Setup
 Clone this repository to your local machine.
 Obtain your Discord bot token from the Discord Developer Portal and replace 'YOUR_BOT_TOKEN' in bot.py with your token.
