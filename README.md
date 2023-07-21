@@ -20,6 +20,7 @@ Run the bot using python bot.py.
 The commands of this Bot.
 
 ```bash
+"
 !hello: The bot responds with a friendly greeting.
 !ping: The bot responds with "Pong!" to check if it's online and responsive.
 !info: Displays information about the bot, such as version, creator, etc.
@@ -49,6 +50,7 @@ Reminder Command
 !remindme <time> "<reminder>": Sets a reminder for the given time.
 Contributing
 Contributions to this Discord bot are welcome! Feel free to fork the repository and submit pull requests with your improvements or new features.
+"
 ```
 # License
 This Discord bot is released under the MIT License.
